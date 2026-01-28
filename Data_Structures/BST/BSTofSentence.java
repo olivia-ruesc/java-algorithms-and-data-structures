@@ -1,16 +1,15 @@
-/**
- * This demonstrates usage of BinarySearchTree to process a sentence by
- * building a BST, printsing word frequencies, and deleteing a word.
- *
- * Author: Olivia Rueschhoff
+/*
+ This demonstrates usage of BinarySearchTree to process a sentence by
+ building a BST, printsing word frequencies, and deleteing a word.
+ 
+ Author: Olivia Rueschhoff
  */
 
 import java.util.Scanner;
 
 public class BSTofSentence{
 
-   public static void main(String[] args){
-   
+   public static void main(String[] args){  
       // Create the BST
       BinarySearchTree tree = new BinarySearchTree();  
           
@@ -35,4 +34,5 @@ public class BSTofSentence{
       System.out.println("\nThe BST after removing the word:");
       tree.printTree(tree.root);
    }
+
 }
