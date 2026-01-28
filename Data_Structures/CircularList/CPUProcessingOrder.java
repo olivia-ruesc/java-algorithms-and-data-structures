@@ -1,9 +1,9 @@
-/**
- * This program simulates round-robin CPU scheduling using a CircularlyLinkedList
- * to demonstrate practical use of custom data structures for 
- * process queue management.
- *
- * Author: Olivia Rueschhoff
+/*
+ This program simulates round-robin CPU scheduling using a CircularlyLinkedList
+ to demonstrate practical use of custom data structures for 
+ process queue management.
+ 
+ Author: Olivia Rueschhoff
  */
 
 
@@ -70,4 +70,5 @@ public class CPUProcessingOrder{
       System.out.println("The process queue is empty.");
       
    }
+
 }
