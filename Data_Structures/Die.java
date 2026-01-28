@@ -1,8 +1,8 @@
-/**
- * This program represents a six-sided die with roll and comparison ability.
- * This demonstrates constructors, method overriding,and controlled randomness.
- *
- * Author: Olivia Rueschhoff
+/*
+ This program represents a six-sided die with roll and comparison ability.
+ This demonstrates constructors, method overriding,and controlled randomness.
+ 
+ Author: Olivia Rueschhoff
  */
 
 import java.util.Random;
@@ -46,4 +46,5 @@ public class Die{
       Die d = (Die)o;
       return this.currentValue == d.currentValue; 
    }
+
 }
