@@ -1,4 +1,4 @@
-# java-algorithms-and-data-structures
+# Java Algorithms and Data Structures
 A collection of Java programs demonstrating core programming concepts including algorithms, coding logic, built-in and custom object types, and object-oriented design.
 
 This repository was developed as part of my undergraduate coursework in Computer Science. The projects demonstrate my understanding of core data structures, algorithmic problem solving, and computational thinking through hands-on implementations.
@@ -9,7 +9,7 @@ Each folder focuses on a specific concept and includes short, well-documented pr
 
 ## Repository
 
-### `data_structures/`
+### `Data_Structures/`
 This folder holds custom implementations and applications of fundamental data structures.
 
 - **Binary Search Tree (BST)**
