@@ -1,17 +1,15 @@
-/**
- * This program implements a Binary Search Tree (BST) for strings, 
- * tracking word frequency and supporting insertion, deletion,
- * and in-order traversal to demonstrate recursion and 
- * tree-based data structures.
- * 
- * Author: Olivia Rueschhoff
+/*
+ This program implements a Binary Search Tree (BST) for strings, 
+ tracking word frequency and supporting insertion, deletion,
+ and in-order traversal to demonstrate recursion and 
+ tree-based data structures.
+  
+ Author: Olivia Rueschhoff
  */
-
 
 class BinarySearchTree{
 
    class Node{
-
       String data;
       Node left, right;
       int frequency;
@@ -124,5 +122,6 @@ class BinarySearchTree{
         return root;
     }
 }
+
 
 
