@@ -9,7 +9,6 @@
 
 
 //Singly Circular Linked List Implementation
-/////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////  
 public class CircularlyLinkedList<E>{
    //Node class
    private static class Node<E>{
@@ -112,4 +111,5 @@ public class CircularlyLinkedList<E>{
       return e;
   }   
 }  
+
 
