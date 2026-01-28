@@ -1,12 +1,12 @@
-/**
- * This program implements a "stack of files" simulation to manage file access order.
- * Two versions are provided: one using an array and one using a linked list.
- * to demonstrate loop control, conditional logic, method decomposition,
- * and different approaches to managing a dynamic collection.
- *
- * This version uses a Singly Linked List to demonstrate fixed-size stack operations.
- *
- * Author: Olivia Rueschhoff
+/*
+ This program implements a "stack of files" simulation to manage file access order.
+ Two versions are provided: one using an array and one using a linked list.
+ to demonstrate loop control, conditional logic, method decomposition,
+ and different approaches to managing a dynamic collection.
+ 
+ This version uses a Singly Linked List to demonstrate fixed-size stack operations.
+ 
+ Author: Olivia Rueschhoff
  */
 
 import java.util.Scanner;
@@ -101,3 +101,4 @@ public class FileStackLinkedList{
       System.out.println("Thank you!");
    }
 }
+
