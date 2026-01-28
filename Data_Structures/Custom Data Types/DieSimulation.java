@@ -1,9 +1,9 @@
-/**
- * This program simulates repeated rolls of a Die to analyze outcome frequency
- * and convergence behavior. It demonstrates simulation logic,
- * loops, array-based counting, and basic statistical reasoning.
- *
- * Author: Olivia Rueschhoff
+/*
+ This program simulates repeated rolls of a Die to analyze outcome frequency
+ and convergence behavior. It demonstrates simulation logic,
+ loops, array-based counting, and basic statistical reasoning.
+ 
+ Author: Olivia Rueschhoff
  */
 
 
@@ -25,5 +25,6 @@ public class DieSimulation{
       }
       System.out.println(java.util.Arrays.toString(valueCounts));
    }
+
 
 }
