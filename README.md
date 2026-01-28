@@ -5,7 +5,7 @@ This repository was developed as part of my undergraduate coursework in Computer
 
 Each folder focuses on a specific concept and includes short, well-documented programs that highlight design decisions, logic flow, and correctness.
 
-
+---
 
 ## Repository
 
