@@ -1,12 +1,10 @@
-/**
- * Renders a static landscape scene using the StdDraw library
- * which demonstrates procedural logic, coordinate-based reasoning,
- * nested loops, and modular decomposition of drawing tasks.
- *
- * Author: Olivia Rueschhoff
+/*
+ Renders a static landscape scene using the StdDraw library
+ which demonstrates procedural logic, coordinate-based reasoning,
+ nested loops, and modular decomposition of drawing tasks.
+ 
+ Author: Olivia Rueschhoff
  */
-
-
 
 public class PavilionScene{
 
@@ -186,5 +184,6 @@ public class PavilionScene{
       StdDraw.line(0.13, 0.33, 0.11, 0.31); //left down
       StdDraw.line(0.27, 0.33, 0.29, 0.31); //right down
    }
+
 
 }
