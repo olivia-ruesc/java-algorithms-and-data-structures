@@ -1,11 +1,11 @@
-/**
- * This program implements a simple hash table using linear probing for collision 
- * to demonstrate method decomposition, collision handling, and basic 
- * algorithmic thinking.
- *
- * Uses the hash function h(x) = (3*x + 5) mod 11.
- *
- * Author: Olivia Rueschhoff
+/*
+ This program implements a simple hash table using linear probing for collision 
+ to demonstrate method decomposition, collision handling, and basic 
+ algorithmic thinking.
+ 
+ Uses the hash function h(x) = (3*x + 5) mod 11.
+ 
+ Author: Olivia Rueschhoff
  */
 
 import java.util.Scanner;
@@ -70,4 +70,5 @@ public class HashTable{
       
       System.out.println("Hash Table is complete");
    }   
+
 }
