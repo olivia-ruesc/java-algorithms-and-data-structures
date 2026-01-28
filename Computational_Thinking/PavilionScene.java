@@ -1,5 +1,5 @@
 /*
- Renders a static landscape scene using the StdDraw library
+ This program renders a static landscape scene using the StdDraw library
  which demonstrates procedural logic, coordinate-based reasoning,
  nested loops, and modular decomposition of drawing tasks.
  
@@ -187,3 +187,4 @@ public class PavilionScene{
 
 
 }
+
