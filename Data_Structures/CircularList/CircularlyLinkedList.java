@@ -1,10 +1,10 @@
-/**
- * This program implements a generic circularly linked list supporting 
- * the following abilities:
- * addFirst, addLast, removeFirst, rotate, and accesse to values.
- * This demonstrates modular linked list implementation and generic types.
- *
- * Author: Olivia Rueschhoff
+/*
+ This program implements a generic circularly linked list supporting 
+ the following abilities:
+ addFirst, addLast, removeFirst, rotate, and accesse to values.
+ This demonstrates modular linked list implementation and generic types.
+ 
+ Author: Olivia Rueschhoff
  */
 
 
@@ -112,3 +112,4 @@ public class CircularlyLinkedList<E>{
       return e;
   }   
 }  
+
